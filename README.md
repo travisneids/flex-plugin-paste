@@ -13,7 +13,7 @@ Next, install the [Twilio CLI](https://www.twilio.com/docs/twilio-cli/quickstart
 Finally, install the Plugins CLI extension using
 
 ```bash
-twilio plugins:install @twilio-labs/plugins-cli@beta
+twilio plugins:install @twilio-labs/plugin-flex@beta
 ```
 
 ### Install Package
