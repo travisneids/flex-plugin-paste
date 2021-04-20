@@ -1,0 +1,25 @@
+{
+  "shadows": {
+    "shadowBorderPrimary": "0 0 0 1px #507B1E",
+    "shadowBorderPrimaryDark": "0 0 0 1px #385615",
+    "shadowBorderPrimaryDarker": "0 0 0 1px #385615",
+    "shadowFocus": "0 0 0 4px rgba(154, 199, 232, 0.85)"
+  },
+  "textColors": {
+    "colorTextLink": "rgb(80, 123, 30)",
+    "colorTextLinkDark": "rgb(56, 86, 21)",
+    "colorTextLinkDarker": "rgb(56, 86, 21)"
+  },
+  "backgroundColors": {
+    "colorBackground": "rgb(229, 229, 229)",
+    "colorBackgroundDestructiveLighter": "rgb(241,114,169)",
+    "colorBackgroundPrimary": "rgb(80, 123, 30)",
+    "colorBackgroundPrimaryDarker": "rgb(56, 86, 21)",
+    "colorBackgroundPrimaryLighter": "rgb(154,199,232)",
+    "colorBackgroundPrimaryLightest": "rgb(197, 223, 242)",
+    "colorBackgroundUser": "rgb(252, 221, 96)"
+  },
+  "fontWeights": {
+    "fontWeightLight": "300"
+  }
+}
